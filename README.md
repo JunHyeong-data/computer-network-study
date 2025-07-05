@@ -21,4 +21,5 @@
 ## 책표지
 ![image](https://github.com/user-attachments/assets/eb87d70b-11ae-4a20-b03a-221927b9590e)
 
-🚀 함께 공부하며 성장하는 저장소입니다.
+🚀 (JOB 8:7) Your beginnings will seem humble,
+    so prosperous will your future be.
